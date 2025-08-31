@@ -66,6 +66,4 @@ Visualize churn, claims, and decision insights.
 -91.2% accuracy with XGBoost.
 -Churn insights segmented by city tiers (urban price sensitivity vs. rural agent influence).
 -Risk profiling based on income, credit score, and health factors.
-
-Streamlit dashboard enables real-time, interpretable decisions.
--
+-Streamlit dashboard enables real-time, interpretable decisions.
