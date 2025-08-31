@@ -1,0 +1,168 @@
+{
+  "timestamp": "2025-07-18T12:38:53.643726",
+  "row_count": 4000,
+  "headers": [
+    "application_id",
+    "age",
+    "gender",
+    "bmi",
+    "smoker",
+    "income",
+    "occupation",
+    "marital_status",
+    "dependents",
+    "policy_term_years",
+    "coverage_amount",
+    "existing_conditions",
+    "previous_claims",
+    "application_channel",
+    "underwriting_decision",
+    "credit_score",
+    "education_level",
+    "employment_status",
+    "residence_type",
+    "city_tier",
+    "risk_aversion_score",
+    "internet_usage_hours",
+    "phone_contact_frequency",
+    "Churn",
+    "churn_reason"
+  ],
+  "analysis_results": {
+    "risk_by_health_No_None": 5.51,
+    "underwriting_high_fair_approved": 1125,
+    "claims_by_term_10": {
+      "total_claims": 157,
+      "average_claims": 0.91
+    },
+    "underwriting_high_fair_review": 147,
+    "risk_by_health_No_Heart Disease": 5.81,
+    "claims_by_term_22": {
+      "total_claims": 154,
+      "average_claims": 1.04
+    },
+    "risk_by_health_Yes_Heart Disease": 5.6,
+    "claims_by_term_26": {
+      "total_claims": 159,
+      "average_claims": 0.99
+    },
+    "risk_by_health_Yes_None": 5.55,
+    "claims_by_term_7": {
+      "total_claims": 146,
+      "average_claims": 0.95
+    },
+    "underwriting_high_good_approved": 1053,
+    "claims_by_term_19": {
+      "total_claims": 147,
+      "average_claims": 0.97
+    },
+    "churn_by_city_Tier 3_Life event change": 89,
+    "risk_by_health_No_Cancer": 5.75,
+    "claims_by_term_11": {
+      "total_claims": 162,
+      "average_claims": 0.99
+    },
+    "claims_by_term_17": {
+      "total_claims": 158,
+      "average_claims": 1.0
+    },
+    "claims_by_term_14": {
+      "total_claims": 165,
+      "average_claims": 1.03
+    },
+    "claims_by_term_8": {
+      "total_claims": 137,
+      "average_claims": 0.89
+    },
+    "churn_by_city_Tier 1_Premium too high": 103,
+    "claims_by_term_20": {
+      "total_claims": 182,
+      "average_claims": 1.01
+    },
+    "claims_by_term_13": {
+      "total_claims": 179,
+      "average_claims": 1.04
+    },
+    "risk_by_health_Yes_Diabetes": 5.85,
+    "underwriting_high_poor_approved": 989,
+    "claims_by_term_25": {
+      "total_claims": 182,
+      "average_claims": 1.08
+    },
+    "claims_by_term_23": {
+      "total_claims": 149,
+      "average_claims": 0.97
+    },
+    "underwriting_high_poor_review": 134,
+    "claims_by_term_21": {
+      "total_claims": 157,
+      "average_claims": 1.0
+    },
+    "claims_by_term_5": {
+      "total_claims": 151,
+      "average_claims": 1.01
+    },
+    "churn_by_city_Tier 3_Switched to competitor": 90,
+    "churn_by_city_Tier 3_Denied claim": 82,
+    "churn_by_city_Tier 2_Denied claim": 58,
+    "claims_by_term_24": {
+      "total_claims": 162,
+      "average_claims": 0.96
+    },
+    "underwriting_high_good_review": 135,
+    "claims_by_term_12": {
+      "total_claims": 152,
+      "average_claims": 1.0
+    },
+    "risk_by_health_No_Diabetes": 5.59,
+    "claims_by_term_27": {
+      "total_claims": 157,
+      "average_claims": 0.91
+    },
+    "churn_by_city_Tier 2_Life event change": 68,
+    "claims_by_term_28": {
+      "total_claims": 142,
+      "average_claims": 0.88
+    },
+    "churn_by_city_Tier 3_Premium too high": 70,
+    "claims_by_term_9": {
+      "total_claims": 132,
+      "average_claims": 0.96
+    },
+    "claims_by_term_18": {
+      "total_claims": 155,
+      "average_claims": 0.96
+    },
+    "claims_by_term_15": {
+      "total_claims": 167,
+      "average_claims": 1.05
+    },
+    "churn_by_city_Tier 1_Life event change": 103,
+    "risk_by_health_Yes_Cancer": 5.57,
+    "claims_by_term_29": {
+      "total_claims": 157,
+      "average_claims": 0.95
+    },
+    "underwriting_high_poor_rejected": 150,
+    "claims_by_term_6": {
+      "total_claims": 161,
+      "average_claims": 0.98
+    },
+    "underwriting_high_fair_rejected": 136,
+    "churn_by_city_Tier 2_Poor digital experience": 69,
+    "claims_by_term_16": {
+      "total_claims": 151,
+      "average_claims": 0.97
+    },
+    "churn_by_city_Tier 1_Poor digital experience": 93,
+    "churn_by_city_Tier 1_Agent miscommunication": 117,
+    "churn_by_city_Tier 2_Premium too high": 63,
+    "churn_by_city_Tier 1_Denied claim": 97,
+    "underwriting_high_good_rejected": 131,
+    "churn_by_city_Tier 3_Agent miscommunication": 64,
+    "churn_by_city_Tier 1_Switched to competitor": 97,
+    "churn_by_city_Tier 2_Agent miscommunication": 72,
+    "churn_by_city_Tier 3_Poor digital experience": 72,
+    "churn_by_city_Tier 2_Switched to competitor": 56
+  }
+}
